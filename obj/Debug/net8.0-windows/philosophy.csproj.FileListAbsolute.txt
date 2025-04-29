@@ -1,0 +1,14 @@
+S:\zadan\philosophy\bin\Debug\net8.0-windows\philosophy.exe
+S:\zadan\philosophy\bin\Debug\net8.0-windows\philosophy.deps.json
+S:\zadan\philosophy\bin\Debug\net8.0-windows\philosophy.runtimeconfig.json
+S:\zadan\philosophy\bin\Debug\net8.0-windows\philosophy.dll
+S:\zadan\philosophy\bin\Debug\net8.0-windows\philosophy.pdb
+S:\zadan\philosophy\obj\Debug\net8.0-windows\philosophy.GeneratedMSBuildEditorConfig.editorconfig
+S:\zadan\philosophy\obj\Debug\net8.0-windows\philosophy.AssemblyInfoInputs.cache
+S:\zadan\philosophy\obj\Debug\net8.0-windows\philosophy.AssemblyInfo.cs
+S:\zadan\philosophy\obj\Debug\net8.0-windows\philosophy.csproj.CoreCompileInputs.cache
+S:\zadan\philosophy\obj\Debug\net8.0-windows\philosophy.dll
+S:\zadan\philosophy\obj\Debug\net8.0-windows\refint\philosophy.dll
+S:\zadan\philosophy\obj\Debug\net8.0-windows\philosophy.pdb
+S:\zadan\philosophy\obj\Debug\net8.0-windows\philosophy.genruntimeconfig.cache
+S:\zadan\philosophy\obj\Debug\net8.0-windows\ref\philosophy.dll

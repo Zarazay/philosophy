@@ -1,0 +1,17 @@
+<people>
+    <person>
+        <name>Иван</name>
+        <second_name>Давыдов</second_name>
+        <age>30</age>
+    </person>
+    <person>
+        <name>Мария</name>
+        <second_name>Князева</second_name>
+        <age>25</age>
+    </person>
+    <person>
+        <name>Алексей</name>
+        <second_name>Сергеев</second_name>
+        <age>35</age>
+    </person>
+</people>
